@@ -1,0 +1,43 @@
+# Blender MTL File: 'Lego Minifig2.blend'
+# Material Count: 4
+newmtl Blue
+Ns 47.058824
+Ka 0.000000 0.000000 0.000000
+Kd 0.000000 0.070360 0.539480
+Ks 0.000000 0.070360 0.539480
+Ni 1.000000
+d 1.000000
+illum 2
+
+
+newmtl Face
+Ns 47.058824
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.900000 0.100000
+Ks 0.086712 0.051785 0.032191
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd C:\\Documents and Settings\\Owner\\My Documents\\Nick\\Animation Projects\\Lego Sintel\\Feature Images\\Face.png
+
+
+newmtl Flesh
+Ns 47.058824
+Ka 0.000000 0.000000 0.000000
+Kd 1.000000 0.900000 0.100000
+Ks 0.086712 0.051785 0.032191
+Ni 1.000000
+d 1.000000
+illum 2
+
+
+newmtl Red
+Ns 47.058824
+Ka 0.000000 0.000000 0.000000
+Kd 0.799103 0.005182 0.000000
+Ks 0.799103 0.005182 0.000000
+Ni 1.000000
+d 1.000000
+illum 2
+
+
